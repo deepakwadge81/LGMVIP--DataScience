@@ -6,3 +6,5 @@ Task 2: Stock Market Prediction And Forecasting Using Stacked LSTM
 
 Task 3: Develop A Neural Network That Can Read Handwriting
 
+Task 4: Exploratory Data Analysis on Dataset - Terrorism
+
